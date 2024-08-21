@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "调用门", "Neihe\Neihe.vcproj", "{EFFE7181-EF74-4911-AB2B-88022CBC4855}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "中断门", "中断门\中断门.vcproj", "{7C302556-DD07-4B2D-9FF5-01BCC9CABF41}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "段劫持", "段劫持\段劫持.vcproj", "{0176EF1D-52DB-4B7C-9E7C-54E5CFF1F3D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "任务段", "任务段\任务段.vcproj", "{C202F84D-83AA-47C3-8EFF-9245AB58970E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFE7181-EF74-4911-AB2B-88022CBC4855}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EFFE7181-EF74-4911-AB2B-88022CBC4855}.Debug|Win32.Build.0 = Debug|Win32
+		{EFFE7181-EF74-4911-AB2B-88022CBC4855}.Release|Win32.ActiveCfg = Release|Win32
+		{EFFE7181-EF74-4911-AB2B-88022CBC4855}.Release|Win32.Build.0 = Release|Win32
+		{7C302556-DD07-4B2D-9FF5-01BCC9CABF41}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C302556-DD07-4B2D-9FF5-01BCC9CABF41}.Debug|Win32.Build.0 = Debug|Win32
+		{7C302556-DD07-4B2D-9FF5-01BCC9CABF41}.Release|Win32.ActiveCfg = Release|Win32
+		{7C302556-DD07-4B2D-9FF5-01BCC9CABF41}.Release|Win32.Build.0 = Release|Win32
+		{0176EF1D-52DB-4B7C-9E7C-54E5CFF1F3D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0176EF1D-52DB-4B7C-9E7C-54E5CFF1F3D1}.Debug|Win32.Build.0 = Debug|Win32
+		{0176EF1D-52DB-4B7C-9E7C-54E5CFF1F3D1}.Release|Win32.ActiveCfg = Release|Win32
+		{0176EF1D-52DB-4B7C-9E7C-54E5CFF1F3D1}.Release|Win32.Build.0 = Release|Win32
+		{C202F84D-83AA-47C3-8EFF-9245AB58970E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C202F84D-83AA-47C3-8EFF-9245AB58970E}.Debug|Win32.Build.0 = Debug|Win32
+		{C202F84D-83AA-47C3-8EFF-9245AB58970E}.Release|Win32.ActiveCfg = Release|Win32
+		{C202F84D-83AA-47C3-8EFF-9245AB58970E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
